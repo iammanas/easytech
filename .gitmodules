@@ -1,0 +1,3 @@
+[submodule "themes/manas"]
+	path = themes/manas
+	url = https://github.com/luizdepra/hugo-coder.git
