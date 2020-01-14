@@ -1,7 +1,6 @@
 baseurl = "https://example.com/"
 title = "Manas Ranjan Pati"
 theme = "manas"
-publishDir = "docs"
 
 languagecode = "en"
 defaultcontentlanguage = "en"

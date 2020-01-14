@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manas Ranjan Pati</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Manas Ranjan Pati</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Django Model</title>
+      <link>https://example.com/posts/post1/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/post1/</guid>
+      <description>Django Model creation  Introduction
+In this tutorial, we will create the Django models that define the fields and behaviors of the Blog application data that we will be storing. These models map the data from your Django application to the database. It’s what Django uses to generate the database tables via their object relational mapping (ORM) API called &amp;ldquo;models&amp;rdquo;.
+Django models are the base thing of any django project.The main purpose of django models are to save the user data in to any database(sqlite3,MongoDB,Oracle,PostgreSQL etc)</description>
+    </item>
+    
+    <item>
+      <title>Theme Demo</title>
+      <link>https://example.com/posts/theme-demo/</link>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/theme-demo/</guid>
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
+This is bold text
+This is italic text
+This is italic text
+Deleted text
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
+$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
+   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+    </item>
+    
+    <item>
+      <title>About Manas</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>I am working as developer for a beautiful company and i learnt many things from this company.
+I love to write and share my thoughts with others.
+ Follow me on instagram Ping me to +91-9439034452  Please help me to grow!
+Thanks for visiting Have questions or suggestions? Feel free to ask me on Twitter.
+Thanks for reading!</description>
+    </item>
+    
+    <item>
+      <title>Contact:</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description>Hello dear, Do you like my work then please help me to grow more. Manas Ranjan Pati
+Madhapur, Hyderabad, 500018
+Please Whats app me on : +91-9439034452
+or
+Mail me: manasranjanpati94@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://example.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/</guid>
+      <description>Projects by Manas
+ Manas Movie Recommender
+  Blogging site for students
+  Student Management System
+  Music Player
+  Manas UPSC
+  E-Commerce Site
+  Web scrappers
+  Web Calculator
+ I am really happy to share my projects with you please whats app me on : [+91-9439034452] or
+mail me on [manasranjanpati94@gmail.com]
+Please help if you like my work
+  Manas Movie Recommender, &amp;ldquo;Group your movies&amp;rdquo; by Manas</description>
+    </item>
+    
+  </channel>
+</rss>
