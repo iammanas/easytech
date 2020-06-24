@@ -2,8 +2,8 @@
 date = "2020-07-24"
 title = "The Seeker"
 math = "true"
-
 +++
+
 
 ```
 Stares at the corner where
