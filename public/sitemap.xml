@@ -3,58 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/posts/post1/</loc>
+    <loc>https://manasblog.netlify.app/</loc>
+    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://manasblog.netlify.app/posts/</loc>
+    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://manasblog.netlify.app/posts/post2/</loc>
+    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://manasblog.netlify.app/posts/post1/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
+    <loc>https://manasblog.netlify.app/about/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
-    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
+    <loc>https://manasblog.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/series/hugo/</loc>
-    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+    <loc>https://manasblog.netlify.app/contact/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/series/</loc>
-    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+    <loc>https://manasblog.netlify.app/projects/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/series/theme/</loc>
-    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+    <loc>https://manasblog.netlify.app/series/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/posts/theme-demo/</loc>
-    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://manasblog.netlify.app/tags/</loc>
   </url>
   
 </urlset>

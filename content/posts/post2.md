@@ -2,7 +2,6 @@
 date = "2020-01-11"
 title = "The Pursuit of Happiness"
 math = "true"
-
 +++
 
 

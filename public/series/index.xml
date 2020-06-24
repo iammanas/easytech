@@ -2,32 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Manas Ranjan Pati</title>
-    <link>https://example.com/series/</link>
+    <link>https://manasblog.netlify.app/series/</link>
     <description>Recent content in Series on Manas Ranjan Pati</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://manasblog.netlify.app/series/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://example.com/series/hugo/</link>
-      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/series/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme</title>
-      <link>https://example.com/series/theme/</link>
-      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/series/theme/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

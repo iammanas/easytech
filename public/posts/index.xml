@@ -2,40 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Manas Ranjan Pati</title>
-    <link>https://example.com/posts/</link>
+    <link>https://manasblog.netlify.app/posts/</link>
     <description>Recent content in Posts on Manas Ranjan Pati</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://manasblog.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Django Model</title>
-      <link>https://example.com/posts/post1/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      <title>The Pursuit of Happiness</title>
+      <link>https://manasblog.netlify.app/posts/post2/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/post1/</guid>
-      <description>Django Model creation  Introduction
-In this tutorial, we will create the Django models that define the fields and behaviors of the Blog application data that we will be storing. These models map the data from your Django application to the database. It’s what Django uses to generate the database tables via their object relational mapping (ORM) API called &amp;ldquo;models&amp;rdquo;.
-Django models are the base thing of any django project.The main purpose of django models are to save the user data in to any database(sqlite3,MongoDB,Oracle,PostgreSQL etc)</description>
+      <guid>https://manasblog.netlify.app/posts/post2/</guid>
+      <description>The Pursuit of Happiness My father always told to me that the happiness of a person depends on the surrounding of that person. If a man lives with good people he will always be happy.
+I left my hometown before my graduation and told all of them that I got an internship at Hyderabad but I don’t have. I started to learn software from my first year of graduation by myself but it needed to be sharpened so I came to Hyderabad.</description>
     </item>
     
     <item>
-      <title>Theme Demo</title>
-      <link>https://example.com/posts/theme-demo/</link>
-      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Django Model</title>
+      <link>https://manasblog.netlify.app/posts/post1/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
-This is bold text
-This is italic text
-This is italic text
-Deleted text
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
-$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
-   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+      <guid>https://manasblog.netlify.app/posts/post1/</guid>
+      <description>Django Model creation  Introduction
+In this tutorial, we will create the Django models that define the fields and behaviors of the Blog application data that we will be storing. These models map the data from your Django application to the database. It’s what Django uses to generate the database tables via their object relational mapping (ORM) API called &amp;ldquo;models&amp;rdquo;.
+Django models are the base thing of any django project.The main purpose of django models are to save the user data in to any database(sqlite3,MongoDB,Oracle,PostgreSQL etc)</description>
     </item>
     
   </channel>
